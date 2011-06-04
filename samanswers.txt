@@ -1,0 +1,78 @@
+Greetings!
+
+ 
+
+Sam’s Bio:
+
+My name is Sam Alegria and I’m a recent graduate from The Art Institute of California - San Francisco (AiCA-SF) with a degree in Web Design & Interactive Media. I'm 22 years old and a native New Yorker. Why come all the way to San Francisco? IGN, of course!
+
+ 
+
+As a economics major and avid video gamer (who frequented IGN’s website), I had an ‘AHA’ moment. Why not combine my interest in web, coding, games and IGN. Why was I studying something as boring as economics? I wanted to be a part of the industry. Moving to San Francisco was my smartest decision to date. I acquired a degree, gained some valuable experience and  I am now one step closer to IGN.
+
+ 
+
+Previous Work:
+
+While in school, I made sure to put 100% into every project. Feel free to view my  online portfolio at http://samalegria.com. Upon graduation, I secured a Web Development Internship at Red Bricks Media. Over the past two months, I’ve learned a great deal from senior developers. I’ve also continued to freelance and recently developed websites such as http://yetizen.com.
+
+ 
+
+Question #1:
+
+Step 1: What is the diameter of a penny?
+
+                                19.05mm
+
+Step 2: What is the length and width of the bridge?
+
+                                L= 2,737m W=27m
+
+Step 3: What is the area in m2 of the bridge?
+
+                                73,899 m2
+
+Step 4: What is the area in mm2 of the penny?
+
+                                362.9025mm2
+
+Step 5: Convert the area of the penny to m2.
+
+                                0.3629025m2
+
+Step 6: Divide the area of the bridge by the area of the penny.
+
+                                203,633 Pennies!
+
+Step 7: You can dance if you want to.
+
+ 
+
+Question #2:
+
+Three image sizes that would fit are:
+
+1.    144 x 81 pixels
+
+2.    192 x 108 pixels
+
+3.    240 by 135 pixels
+
+ 
+
+Question #3:
+
+I don't know how to write a program to prove this. I know it doesn’t count, but I had to google it. I’m happy I know the answer. :)
+
+ 
+
+Question #4:
+
+I honestly came to California with the dream of one day working at IGN. Why IGN? IGN is not only the best gaming website, but one that strives to be the best website on the internet. I want to be behind the scenes and see how decisions are made on engineering projects like MyIGN blogs. I feel that being in an environment full of people who have the same interests and enthusiasm as me will allow me to improve in ways I will never do at another companies.
+
+ 
+
+Why do you need me? There must be hundreds of male developers within the age range of 18-34. What sets me apart from this crowd is that I love the gaming and web industry enough to come to San Francisco to see where all the action is! In addition to  keeping up with current trends via multiple tech and gaming sites, blogs, and daily tweets, I also use MyIGN blogs everyday to connect to the game community and read what they're interested in. With this knowledge and firm groundwork in web design, I believe I can bring new and relevant ideas to the table as well as contribute as a hard worker and lover of video games and all things geeky. 
+
+
+PS. I also promise to always get first round at the bar!
